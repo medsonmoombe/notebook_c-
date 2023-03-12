@@ -1,0 +1,13 @@
+/home/emmanuel/notepad/MyProjectName/obj/Debug/netcoreapp3.1/MyProjectName.csprojAssemblyReference.cache
+/home/emmanuel/notepad/MyProjectName/obj/Debug/netcoreapp3.1/MyProjectName.AssemblyInfoInputs.cache
+/home/emmanuel/notepad/MyProjectName/obj/Debug/netcoreapp3.1/MyProjectName.AssemblyInfo.cs
+/home/emmanuel/notepad/MyProjectName/obj/Debug/netcoreapp3.1/MyProjectName.csproj.CoreCompileInputs.cache
+/home/emmanuel/notepad/MyProjectName/bin/Debug/netcoreapp3.1/MyProjectName
+/home/emmanuel/notepad/MyProjectName/bin/Debug/netcoreapp3.1/MyProjectName.deps.json
+/home/emmanuel/notepad/MyProjectName/bin/Debug/netcoreapp3.1/MyProjectName.runtimeconfig.json
+/home/emmanuel/notepad/MyProjectName/bin/Debug/netcoreapp3.1/MyProjectName.runtimeconfig.dev.json
+/home/emmanuel/notepad/MyProjectName/bin/Debug/netcoreapp3.1/MyProjectName.dll
+/home/emmanuel/notepad/MyProjectName/bin/Debug/netcoreapp3.1/MyProjectName.pdb
+/home/emmanuel/notepad/MyProjectName/obj/Debug/netcoreapp3.1/MyProjectName.dll
+/home/emmanuel/notepad/MyProjectName/obj/Debug/netcoreapp3.1/MyProjectName.pdb
+/home/emmanuel/notepad/MyProjectName/obj/Debug/netcoreapp3.1/MyProjectName.genruntimeconfig.cache
